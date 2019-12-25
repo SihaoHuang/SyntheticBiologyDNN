@@ -1,3 +1,5 @@
 # Code Supplement: Towards Multicellular Biological Deep Neural Nets Based on Transcriptional Regulation
 
+https://arxiv.org/abs/1912.11423
+
 Artificial neurons built on synthetic gene networks have potential applications ranging from complex cellular decision-making to bioreactor regulation. Furthermore, due to the high information throughput of natural biological systems, it provides an interesting candidate for biologically-based supercomputing and analog simulations of traditionally intractable problems. In this paper, we propose an architecture for constructing multicellular neural networks and nonlinear systems. We design and simulate an artificial neuron based on gene regulatory network and work towards neuronal modularity by optimizing its dynamics. We demonstrate its ability to perform arbitrary linear classifications from multiple inputs. Finally, we construct a two-layer neural network to demonstrate scalability and nonlinear classifiers, and discuss future directions for utilizing uncontrolled neurons in computational tasks.  
